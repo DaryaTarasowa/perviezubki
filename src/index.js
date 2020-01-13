@@ -1,6 +1,5 @@
 import React, { Component } from "react";
 import ReactDOM from "react-dom";
-import LoginBox from "./LoginBox";
 import Register from "./Register";
 
 import "./styles.css";
@@ -16,8 +15,8 @@ class App extends Component {
   render() {
     return (
       <div className="App">
-        <LoginBox clickedState={this.state.LoginOnTop} clicked={this.clicked} />
-        <Register clickedState={this.state.LoginOnTop} clicked={this.clicked} />
+
+        <Register />
       </div>
     );
   }
