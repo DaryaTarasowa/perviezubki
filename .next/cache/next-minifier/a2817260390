@@ -1,0 +1,1 @@
+{"code":"(window.webpackJsonp=window.webpackJsonp||[]).push([[7],{O2ls:function(n,u,t){\"use strict\";t.r(u);var e=t(\"q1tI\"),o=t.n(e).a.createElement;u.default=function(){return o(\"div\",null,o(\"p\",null,\"Hello Next.js\"))}},u6Hu:function(n,u,t){(window.__NEXT_P=window.__NEXT_P||[]).push([\"/login\",function(){return t(\"O2ls\")}])}},[[\"u6Hu\",1,0]]]);"}
