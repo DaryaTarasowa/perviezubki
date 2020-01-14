@@ -1,0 +1,29 @@
+{
+  "modules": {
+    "byIdentifier": {},
+    "usedIds": {}
+  },
+  "chunks": {
+    "byName": {
+      "commons": 0,
+      "static/runtime/webpack.js": 1,
+      "static/runtime/main.js": 2,
+      "static/runtime/polyfills.js": 3,
+      "static\\6SnrlCdraI0ZOA3b6rBEn\\pages\\_app.js": 4,
+      "static\\6SnrlCdraI0ZOA3b6rBEn\\pages\\_error.js": 5,
+      "static\\6SnrlCdraI0ZOA3b6rBEn\\pages\\index.js": 6,
+      "static\\6SnrlCdraI0ZOA3b6rBEn\\pages\\login.js": 7
+    },
+    "bySource": {},
+    "usedIds": [
+      0,
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7
+    ]
+  }
+}
